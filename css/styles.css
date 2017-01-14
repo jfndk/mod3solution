@@ -1,0 +1,55 @@
+body {
+	color: #000;
+}
+
+#header-nav {
+	background: #bbbbbb;
+	border: 0px;
+	border-radius: 0;
+}
+
+.navbar-brand h1 {
+	margin-top: -7px;
+	color: #000;
+	font-size: 200%;
+}
+
+#nav-list {
+	text-align: center;
+	margin: 0px;
+}
+
+#nav-list li {
+	font-size: 150%;
+}
+
+hr {
+	margin: 0px;
+}
+
+#nav-list a:hover {
+	background: #ddd;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #333333;
+}
+
+.navbar-header button.navbar-toggle {
+	clear:both;
+	margin-top: -40px;
+}
+
+#title {
+	margin-top: -10px;
+	margin-bottom: 25px;
+}
+
+#main-section-title {
+	margin-top: 0px;
+}
+
+#chicken {
+	background: #cccccc;
+	padding: 10px;
+}
